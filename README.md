@@ -3,5 +3,5 @@
 python youtube_downloader.py
 
 ## Sample Text File :
-![alt text](https://imgur.com/a/92rAfPZ)
+![alt text](https://i.imgur.com/Vu1xzSh.png)
 
